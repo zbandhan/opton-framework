@@ -1,0 +1,15 @@
+{
+  "name": "giganteck/opton",
+  "description": "Opton lightweight metabox & form framework",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Giganteck\\Opton\\": "includes/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
